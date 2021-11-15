@@ -29,3 +29,5 @@ Pour faire le projet, avec l'entreprise ce n'était pas facile et j'ai manqué d
 Rien ne me semblait insurmontable avec un peu plus de temps car j'y arrivais petit à petit.
 
 J'ai bien aimé ce projet et je pense le continuer pour l'améliorer de plus en plus
+
+Alexandre Froment
