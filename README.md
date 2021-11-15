@@ -15,3 +15,17 @@ Tout d'abord, il m'a fallu modéliser la base de donnée afin d'avoir une visual
 
 <img width="819" alt="Capture d’écran 2021-11-15 à 12 28 12" src="https://user-images.githubusercontent.com/60222927/141776561-62479d22-826d-4a63-80d5-0202ac6ff554.png">
 
+##Lancement du projet
+- Il faut d'abord mettre vos information de connexion dans le fichier .env
+- Lancé la commande 'php artisan serve'
+- Vous pouvez par la suite peuplé la base de donnée avec des données automatique avec la commande 'php artisan db:seed'
+
+Vous avez maintenant accès au projet
+
+##Compte Rendu
+Concernant la semaine de Laravel, pour ma part cela s'est très bien déroulé, je n'ai pas eu de problème de comopréhension et les vidéos m'ont particulièrement aidé malgrès le soucis sur le fait de ne pas pouvoir aller à l'endroit où l'on veut dans la vidéo.
+Pour faire le projet, avec l'entreprise ce n'était pas facile et j'ai manqué de temps. Je pense que j'ai mal géré mon temps, mais j'ai fait de mon mieux pour vous rendre quelque chose de convenable.
+
+Rien ne me semblait insurmontable avec un peu plus de temps car j'y arrivais petit à petit.
+
+J'ai bien aimé ce projet et je pense le continuer pour l'améliorer de plus en plus
